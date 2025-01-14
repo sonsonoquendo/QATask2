@@ -6,7 +6,7 @@ src/test/java/SeleniumDemo: Contains the Java source code for test automation.
 ### Execution
 1. Clone Git project
 
-`git clone https://github.com/johnreymanto/SeleniumTest.git`
+`git clone https://github.com/sonsonoquendo/QATask2.git`
 
 2. Run the script
 
