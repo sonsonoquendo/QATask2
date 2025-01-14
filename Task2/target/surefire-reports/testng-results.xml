@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-14T13:56:56 SGT" name="Surefire suite" finished-at="2025-01-14T13:57:52 SGT" duration-ms="56280">
+    <groups>
+    </groups>
+    <test started-at="2025-01-14T13:56:56 SGT" name="Surefire test" finished-at="2025-01-14T13:57:52 SGT" duration-ms="56280">
+      <class name="Task2.Task2">
+        <test-method signature="AmaysimTest()[pri:0, instance:Task2.Task2@121314f7]" started-at="2025-01-14T13:56:56 SGT" name="AmaysimTest" finished-at="2025-01-14T13:57:52 SGT" duration-ms="56106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AmaysimTest -->
+      </class> <!-- Task2.Task2 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
